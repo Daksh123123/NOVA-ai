@@ -4,7 +4,7 @@ This AI was made by me and my friend and first named as Jarvis then after we cha
 # How To Use
 You WIll Be Needed Python to run this ai
 # Steps
-1: DOwnload The Zip File of this in your PC
+1: DOwnload The Zip File of this from releses tab in your PC
 
 2: Extract Them
 3: Run the install.bat File
